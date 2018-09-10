@@ -1,0 +1,37 @@
+html body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Indie Flower', cursive;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 60px;
+}
+
+.form
+{
+    background-color: white;
+}
+
+.login
+{
+    margin-left: 39%;
+    padding: 10px;
+}
+
+.date
+{
+    font-family: 'Inconsolata', monospace;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+
+#sub
+{
+    margin-left: 13.5%;
+    margin-top: 10px;
+}
